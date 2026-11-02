@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 .imagen{
-      width: 1470px;
-      height: 500px;
+      width: 1350px;
+      height: 550px;
 }
 
 }
@@ -25,7 +25,7 @@ h5 {
 
 .itemCarrusel{
     border: 1px solid black;
-    height: 500px;
+    height: 550px;
     position: relative;
 }
 .tarjetaCarrusel{
@@ -36,16 +36,16 @@ h5 {
 .flechasCarrusel{
     position: absolute;
     top: 0;
-    height: 50%;
+    height: 100%;
     width: 200%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 15px;  
+    padding: 20px;  
 }     
 
 p{
-    font-size: 26px;
+    font-size: 35px;
     background-color: rgb(229, 245, 11);
 }
 body{
@@ -60,7 +60,7 @@ body{
     width: 200%;
     text-decoration: none;
     color: rgb(248, 8, 8);
-    padding: 0 15px;
+    padding: 0 25px;
 }
 .menu a:hover{
     width: 200%;
