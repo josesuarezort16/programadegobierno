@@ -5,7 +5,7 @@
 
 .imagen{
       width: 1350px;
-      height: 550px;
+      height: 500px
 }
 
 }
@@ -26,7 +26,7 @@ h5 {
 
 .itemCarrusel{
     border: 1px solid black;
-    height: 550px;
+    height: 500px;
     position: relative;
 }
 .tarjetaCarrusel{
@@ -46,8 +46,8 @@ h5 {
 }     
 
 p{
-    font-size: 35px;
-    background-color: rgb(229, 245, 11);
+    font-size: 45px
+    background-color rgb(229, 245, 11);
 }
 body{
     background-color: rgb(234, 233, 238);
@@ -58,13 +58,13 @@ body{
     display: inline-flex;
 }
 .menu a{
-    width: 290%;
+    width: 260%;
     text-decoration: none;
     color: rgb(248, 8, 8);
-    padding: 0 40px;
+    padding: 0 40px
 }
 .menu a:hover{
-    width: 290%;
+    width: 260%;
     background-color: rgb(245, 229, 10);
     color: black;
 }
